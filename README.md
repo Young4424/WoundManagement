@@ -181,16 +181,11 @@ def find_nearby_hospitals(latitude, longitude):
 2. **배경 제거**: DeepLab v3 ResNet-101 모델을 활용한 배경 노이즈 제거
 3. **하이퍼파라미터 튜닝**: 학습률, 배치 크기 최적화
 
-## 🎨 사용자 인터페이스
+## 🎨 시연 영상
 
-### 메인 화면
-![메인 화면](docs/images/main_screen.png)
 
-### 분석 결과
-![분석 결과](docs/images/analysis_result.png)
+[![프로젝트 시연 영상](https://img.youtube.com/vi/pBX4PGWKS28/maxresdefault.jpg)](https://youtu.be/pBX4PGWKS28)
 
-### 병원 추천
-![병원 추천](docs/images/hospital_recommendation.png)
 
 ## 🔮 향후 발전 방향
 
