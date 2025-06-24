@@ -25,7 +25,8 @@
 ## 🏆 프로젝트 성과
 
 
-![image](https://github.com/user-attachments/assets/5df0f0cc-ee3c-40c9-a4ed-efc37b7e4e03)
+![image](https://github.com/user-attachments/assets/e5711a25-f812-4121-99ee-35ea2ad6235c)
+
 
 
 
