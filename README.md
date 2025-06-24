@@ -7,9 +7,6 @@
 
 
 
-
-
-
 [![Azure Custom Vision](https://img.shields.io/badge/Azure-Custom%20Vision-0078D4?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-FF6B35?style=flat-square)](https://gradio.app/)
@@ -27,6 +24,11 @@
 
 ## 🏆 프로젝트 성과
 
+
+![image](https://github.com/user-attachments/assets/5df0f0cc-ee3c-40c9-a4ed-efc37b7e4e03)
+
+
+
 ### 📊 모델 성능
 - **Precision**: 93.5% → 99.4% (개선)
 - **Recall**: 90.3% → 99.2% (개선)
@@ -34,9 +36,8 @@
 - **학습 데이터**: 905장의 상처 이미지
 
 ### 🏅 프로젝트 정보
-- **팀명**: Team 7조 (질럿몰게 맞지마)
+- **팀명**: Team 7조 (칠칠맞게 맞지마)
 - **기관**: MS AI School 6th
-- **개발 기간**: 2024년
 
 ## 🛠️ 기술 스택
 
