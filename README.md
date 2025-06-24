@@ -2,6 +2,14 @@
 
 > AI 기반 상처 케어 관리 서비스
 
+![image](https://github.com/user-attachments/assets/45816be1-451b-418c-ad94-b09b78287579)
+
+
+
+
+
+
+
 [![Azure Custom Vision](https://img.shields.io/badge/Azure-Custom%20Vision-0078D4?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-FF6B35?style=flat-square)](https://gradio.app/)
@@ -221,20 +229,14 @@ def find_nearby_hospitals(latitude, longitude):
 
 | 이름 | 역할 | 담당 업무 |
 |------|------|-----------|
-| 김율휘 | 팀장 | 프로젝트 관리 및 기획안 작성 |
+| 김용휘 | 팀장 | 프로젝트 관리 및 기획안 작성 |
 | 김영교 | 데이터 담당 | 데이터 수집, 추체 선정 피드백, 프로젝트 질의응답 |
-| 김율환 | 팀원 | 데이터 전처리 |
+| 김용환 | 팀원 | 데이터 전처리 |
 | 배용석 | 팀원 | ResNet 활용 모델 개발 |
-| 양태요 | 팀원 | 데이터 라벨링, Google map API 활용 |
+| 양태윤 | 팀원 | 데이터 라벨링, Google map API 활용 |
 | 이소연 | 팀원 | Kakao map API 활용, Custom Vision활용 모델 개발 |
 | 추성호 | 팀원 | 웹 개발 - gradio |
 
-## 📞 문의
-
-프로젝트에 대한 문의사항이 있으시면 언제든 연락해주세요.
-
-- **이메일**: your-email@example.com
-- **프로젝트 링크**: [https://github.com/your-username/daily-skin-care-planner](https://github.com/your-username/daily-skin-care-planner)
 
 ---
 
